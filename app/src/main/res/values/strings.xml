@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BankiDroid</string>
+    <string name="recipient">Recipient</string>
+    <string name="transactions">Transactions</string>
+    <string name="transfer">Transfer</string>
+    <string name="balance_eur">Balance [EUR]</string>
+    <string name="amount_eur">Amount [EUR]</string>
+    <string name="_123456789_00">123456789.00</string>
+    <string name="pay">Pay</string>
+    <string name="out_of_bounds">Amount is outside of bounds.</string>
+    <string-array name="friends">
+        <item>Per</item>
+        <item>Pål</item>
+        <item>Espen</item>
+        <item>Perine</item>
+        <item>Påline</item>
+        <item>Espenine</item>
+    </string-array>
+</resources>
